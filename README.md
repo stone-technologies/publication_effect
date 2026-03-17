@@ -1,4 +1,4 @@
-# Publication effects in anomaly returns (wiPCA / rwiPCA)
+# Publication Effects Revisited
 
 Reproduces a panel event-study of anomaly portfolio returns around the publication date of the underlying trading strategy.
 The empirical object is a large, unbalanced panel of long–short portfolio returns. Publication induces a structured missingness pattern for counterfactual outcomes (post-publication control outcomes are not observed), so the analysis uses a factor-model imputation approach (ridge weighted PCA with fixed effects) to construct counterfactual returns and estimate post-publication effects.
