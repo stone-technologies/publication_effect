@@ -1,0 +1,19 @@
+[project]
+name = "publication-effect"
+version = "0.1.0"
+description = "Publication effects in anomaly returns with factor-model imputation"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "numpy>=1.26",
+  "pandas>=2.2",
+  "matplotlib>=3.8",
+  "statsmodels>=0.14",
+  "pyarrow>=14.0",
+  "ipython>=8.0",
+  "jupyter>=1.0",
+]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"

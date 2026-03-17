@@ -1,0 +1,15 @@
+Statistic,Value
+Raw LS panel start,1926-01-30
+Raw LS panel end,2024-12-31
+Analysis sample start,1963-07-31
+Analysis sample end,2024-12-31
+Number of strategies,212
+Months in analysis sample,738
+Observed share,0.8963606381346833
+Missing share,0.10363936186531675
+Observed share in 2024-12,0.9198113207547169
+Strategies observed in 2024-12,195
+Strategies with last observation at 2024-12-31,195
+Balanced 10-year post-publication windows,198
+Earliest publication year,1973
+Latest publication year,2016
