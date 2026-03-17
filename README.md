@@ -25,13 +25,9 @@ pip install -r requirements.txt
 
 Open:
 
-- `notebooks/publication_effect.ipynb`
+- `notebooks/publication_effect_notebook.ipynb`
 
 and run all cells.
-
-The notebook writes figures and tables to:
-
-- `outputs/notebook_outputs/`
 
 ## References
 
